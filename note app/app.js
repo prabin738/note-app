@@ -49,3 +49,5 @@ const addNote = (text = "") => {
     addNote(lsNotes);
   });
 })();
+
+//This is test for branch 1.0
